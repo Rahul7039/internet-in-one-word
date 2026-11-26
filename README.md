@@ -8,9 +8,9 @@ Entry for **The Internet in One Word** — one word for the whole internet, funn
 
 ## The word
 
-> **highschool**
+> **commentsection**
 
-The whole internet is one giant high school: cliques are fandoms, the popular kids are influencers, gossip is cancel culture, the lunch tables are group chats, and nobody ever graduates.
+The whole internet is one giant comment section: every page, every video, every product, every news story ends in strangers shouting at each other underneath it — and the shouting is the point.
 
 ## Run it
 

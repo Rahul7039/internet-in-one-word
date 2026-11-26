@@ -4,7 +4,7 @@ Writes the chosen word, byte-identical, to /output/entry.txt.
 The word is a fixed constant: it is never generated or paraphrased.
 """
 
-WORD = "highschool"
+WORD = "commentsection"
 
 # Gate guards: one word, 1-30 chars, no whitespace of any kind.
 assert isinstance(WORD, str)
